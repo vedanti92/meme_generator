@@ -1,4 +1,4 @@
-The Tenzies game involves rolling ten dice as fast as possible until a player rolls ten of a kind (such as ten 3s). The first player to achieve this wins the game.
+The Tenzies game involves rolling ten dice as fast as possible until a player rolls ten of a kind (such as ten 3s). The first player to achieve this wins the game. \
 On the interface, for freezing a die, user must tap on it so that when the dice are rolled again, the value of the selected die does not change.
 
 # Getting Started with Create React App
