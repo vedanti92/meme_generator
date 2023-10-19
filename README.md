@@ -1,5 +1,4 @@
-The Tenzies game involves rolling ten dice as fast as possible until a player rolls ten of a kind (such as ten 3s). The first player to achieve this wins the game. \
-On the interface, for freezing a die, user must tap on it so that when the dice are rolled again, the value of the selected die does not change.
+The meme generator allows users to create and customize memes easily. On the website, you need to provide captions as per your choice in the top and bottom text areas.
 
 # Getting Started with Create React App
 
