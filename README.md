@@ -1,4 +1,25 @@
-The meme generator allows users to create and customize memes easily. On the website, you need to provide captions as per your choice in the top and bottom text areas.
+# 🖼️ Meme Generator
+
+A fun and interactive Meme Generator built using **React**. Users can select meme templates, add custom top and bottom text, and generate personalized memes on the fly.
+
+## 📸 Features
+
+- Browse meme templates (via API)
+- Add **Top** and **Bottom** text
+- Real-time meme preview
+- Simple, responsive UI
+- Lightweight and easy to use
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React (Hooks, Functional Components)
+- **API**: [Imgflip Meme API](https://api.imgflip.com)
+
+## 🧩 How It Works
+
+1. Fetches meme templates using the Imgflip API.
+2. User enters custom text.
+3. Meme is rendered live in the browser.
 
 # Getting Started with Create React App
 
